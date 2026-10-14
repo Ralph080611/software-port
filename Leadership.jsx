@@ -1,4 +1,4 @@
-import {lead} from '../data';
+import {lead} from './data';
 import {Head, Reveal} from './Reveal';
 
 export function Leadership() {

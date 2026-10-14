@@ -1,5 +1,5 @@
 import {useEffect, useState} from 'react';
-import {PHOTO, edu, roles, socials} from '../data';
+import {PHOTO, edu, roles, socials} from './data';
 import {Tilt} from './Tilt';
 
 /** Types out each role, deletes it, then moves to the next. */

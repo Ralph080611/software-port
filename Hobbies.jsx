@@ -1,4 +1,4 @@
-import {hobbies} from '../data';
+import {hobbies} from './data';
 import {Head, Reveal} from './Reveal';
 
 export function Hobbies() {

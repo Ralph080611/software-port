@@ -1,5 +1,5 @@
 import {useState} from 'react';
-import {code, ext, stack} from '../data';
+import {code, ext, stack} from './data';
 import {Head, Reveal} from './Reveal';
 
 export function Stack() {

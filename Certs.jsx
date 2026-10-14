@@ -1,4 +1,4 @@
-import {certs} from '../data';
+import {certs} from './data';
 import {Head, Reveal} from './Reveal';
 
 export function Certs() {

@@ -1,4 +1,4 @@
-import {EMAIL, socials} from '../data';
+import {EMAIL, socials} from './data';
 import {Head, Reveal} from './Reveal';
 
 export function Contact() {
