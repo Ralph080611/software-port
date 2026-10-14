@@ -1,5 +1,5 @@
 import {useEffect, useState} from 'react';
-import {nav} from '../data';
+import {nav} from './data';
 
 export function Navbar({theme, onToggle}) {
   const [open, setOpen] = useState(false);

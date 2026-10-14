@@ -1,4 +1,4 @@
-import PHOTO from './assets/photo.jpg';
+import PHOTO from './galate.jpg';
 
 const EMAIL='ralphgalate11@gmail.com';
 const socials=[['github','https://github.com/Ralph080611'],['linkedin','https://www.linkedin.com/in/ralphgalate/'],['facebook','https://www.facebook.com/share/1KCw45vkck/?mibextid=wwXIfr'],['instagram','https://www.instagram.com/xandorei']];

@@ -1,4 +1,4 @@
-import {edu} from '../data';
+import {edu} from './data';
 import {Head, Reveal} from './Reveal';
 
 export function Education() {

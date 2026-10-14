@@ -1,5 +1,5 @@
 import {useMemo, useState} from 'react';
-import {projects} from '../data';
+import {projects} from './data';
 import {Head, Reveal} from './Reveal';
 
 const FILTERS = ['All', ...new Set(projects.map((p) => p.cat))];
